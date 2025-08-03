@@ -1,0 +1,5 @@
+.env
+.idea
+all_dependencies_tree/
+package_swift_files/
+.DS_Store
